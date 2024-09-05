@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Typescript"
-# All dates must be YYYY-MM-DD format!
+title: "Reflect on TypeScript"
 date: 2024-09-05
 published: true
 labels:
