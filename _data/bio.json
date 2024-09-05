@@ -14,11 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Video Games" },
     { "name": "Game Design" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
     { "name": "3D Graphics" }
+    { "name": "Data Security" }
   ],
   "skills": [
     {
