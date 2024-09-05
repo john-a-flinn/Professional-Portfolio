@@ -1,15 +1,15 @@
 # REQUIRED CHANGES
-# Edit next line to provide your own name.
+# Edit the next line to provide your own name.
 title: John Flinn | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
+# Edit the next line, replacing 'techfolios' with your GitHub username.
 url: "https://john-a-flinn.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
+# Edit the next line so that baseurl is "" if your repo is <username>.github.io.
 baseurl: ""
 
 # OPTIONAL CHANGES
-## Specify the theme using any of the css files in css/techfolio-theme
+## Specify the theme using any of the CSS files in css/techfolio-theme.
 techfolio-theme: lime.css
-## Specify the formatting for triple backquote code sections.
+## Specify the formatting for triple backtick code sections.
 rouge-theme: github.css
 
 # DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
