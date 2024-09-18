@@ -6,7 +6,8 @@ title: "Morse Code"
 date: 2024
 published: true
 labels:
-  - Lisp
+  - C
+  - Student project
   - GitHub
 summary: "A morse code coverter that I developed for ICS 211."
 ---

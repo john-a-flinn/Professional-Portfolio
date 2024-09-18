@@ -3,10 +3,11 @@ layout: project
 type: project
 image: img/studentprofile.jpg
 title: "Student Profile"
-date: 2024/9/5
+date: 2024/09/05
 published: true
 labels:
-  - Lisp
+  - C
+  - Student Project
   - GitHub
 summary: "A student profile system that I developed for ICS 211."
 ---

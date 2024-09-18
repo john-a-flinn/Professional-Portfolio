@@ -6,7 +6,8 @@ title: "Complex Numbers"
 date: 2024/9/5
 published: true
 labels:
-  - Lisp
+  - C
+  - School Project
   - GitHub
 summary: "A complex number class that I developed for ICS 211."
 ---
