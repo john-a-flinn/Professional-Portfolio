@@ -1,12 +1,13 @@
 ---
 layout: project
 type: project
-image: img/studentprofile.jpg
+image: img/studentprofile.png
 title: "Student Profile"
-date: 2024/9/5
+date: 2024/09/05
 published: true
 labels:
-  - Lisp
+  - C
+  - Student Project
   - GitHub
 summary: "A student profile system that I developed for ICS 211."
 ---
@@ -47,6 +48,6 @@ void editFile();
 <hr>
 
 <a href="https://github.com/jogarces/ics-313-text-game">
-  <i class="large github icon" style="font-size: 200px;"></i> jogarces/ics-313-text-game
+  <i class="large github icon" style="font-size: 200px; width: 200px; height: 200px;"></i> jogarces/ics-313-text-game
 </a>
 
