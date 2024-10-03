@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/studentprofile.png
 title: "Student Profile"
-date: 2024/09/05
+date: 2024
 published: true
 labels:
   - C
