@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "John Flinn", "url": "https://john-a-flinn.github.io" },
-      { "network": "linkedin", "username": "John Flinn", "url": "https://www.linkedin.com/in/john-flinn-a52943325/" },
+      { "network": "linkedin", "username": "John Flinn", "url": "https://www.linkedin.com/in/john-flinn-a52943325/" }
     ]
   },
   "interests": [
@@ -35,14 +35,13 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
-
   "references": [
     {
-      "name": "Available upon request"
+      "name": "",
+      "reference": "Available upon request"
     }
   ]
 }
