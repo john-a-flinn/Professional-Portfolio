@@ -12,7 +12,7 @@ labels:
 summary: "A morse code coverter that I developed for ICS 211."
 ---
 
-Using comandline inputs to convert text into morse code. This is done through a mosre code structor that has a pointer to a table.
+Using comandline inputs to convert text into morse code. This is done through a mosre code structor that has a pointer to a table. SHOW SOMETHING????
 
 ```cpp
 // Struct with a char and pointer to the MorseCode table
