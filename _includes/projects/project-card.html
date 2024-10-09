@@ -13,7 +13,11 @@
           {% endfor %}
         </p>
         {% if page.projecturl %}
+<<<<<<< HEAD
         <a href="morsecode.html" class="btn btn-outline-dark">Project Site11111</a>
+=======
+        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+>>>>>>> parent of 8aedaff (.md)
         {% else %}
         <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
         {% endif %}
