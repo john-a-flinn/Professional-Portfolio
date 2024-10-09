@@ -103,4 +103,3 @@ public:
 <a href="https://github.com/jogarces/ics-313-text-game">
   <i class="large github icon" style="font-size: 200px; width: 200px; height: 200px;"></i> jogarces/ics-313-text-game
 </a>
-</a>

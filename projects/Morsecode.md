@@ -43,8 +43,4 @@ MorseCode morse_table[] = {
 
 <a href="https://github.com/jogarces/ics-313-text-game">
   <i class="large github icon" style="font-size: 200px; width: 200px; height: 200px;"></i> jogarces/ics-313-text-game
-<<<<<<<< HEAD:projects/morsecode.md
 </a>
-========
-</a>
->>>>>>>> a4036e413be4973a39e04950fbd070692a41890c:projects/Morsecode.md
