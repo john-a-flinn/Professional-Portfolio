@@ -3,11 +3,7 @@ layout: project
 type: project
 image: img/studentprofile.png
 title: "Student Profile"
-<<<<<<< HEAD:projects/StudentProfile.md
-date: 2024
-=======
 date: 2024/09/05
->>>>>>> a4036e413be4973a39e04950fbd070692a41890c:projects/Student Profile
 published: true
 labels:
   - C
@@ -54,4 +50,3 @@ void editFile();
 <a href="https://github.com/jogarces/ics-313-text-game">
   <i class="large github icon" style="font-size: 200px; width: 200px; height: 200px;"></i> jogarces/ics-313-text-game
 </a>
-
