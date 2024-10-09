@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/morse.png
 title: "Morse Code"
-date: 2024
+date: 2024-05-26
 published: true
 labels:
   - C
