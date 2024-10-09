@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/complexnum.png
 title: "Complex Numbers"
-date: 2024/9/5
+date: 2024
 published: true
 labels:
   - C
